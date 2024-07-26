@@ -1,0 +1,21 @@
+{
+    "embedColorSuccess": "#00D26A",
+    "embedColorWarning": "FFCC4D",
+    "embedColorError": "FB2F61",
+
+    "embedErrorMessage": "Ocurrió un error.",
+
+    "commandDevOnly": "Este comando solo puede ser ejecutado por Developers.",
+    "commandTestMode": "Este comando está en desarrollo y no puede ser utilizado por el momento.",
+    "commandPremiumOnly": "Este comando solo puede ser ejecutado para usuarios premium.",
+
+    "userNoPermissions": "No tienes permisos suficientes para ejecutar este comando.",
+    "botNoPermissions": "No tengo permisos suficientes para ejecutar este comando.",
+    "hasHigherRolePosition": "Esta persona tiene un rol mas alto o el mismo que el tuyo.",
+    "unableToInteractWithYourself": "No puedes hacerte eso a tí.",
+    "cannotUseButton": "No puedes utilizar este botón",
+    "cannotUseSelect": "No puedes utilizar este menú",
+    "footerText": "Lista de comandos",
+    "footerYellow": "Cronometro",
+    "embedErrorTitle": "`⚠️` Ocurrió un error!"
+}
